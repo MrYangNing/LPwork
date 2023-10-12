@@ -1,8 +1,18 @@
 人物交谈场景：Bumping Pub
 户外森林场景：Tropical Forest; Redwood Forest Biome
-村庄内部街道：Rome Fantasy Pack; MODULAR MEDIEVAL ASSET PACK
-村庄外部场景：Castle Fortress
-飞船或基地内部场景：Mothership Service Rooms
-赛博朋克城市内部场景：CYBERPUNK STREET ; Cyberpunk Environment Kitbash Set；Hong Kong Alley
+废弃村庄场景图：Wild West Ghost Town of Fogmourn
+村庄内部街道：Rome Fantasy Pack; MODULAR MEDIEVAL ASSET PACK; Medieval Village inedible
+村庄外部场景：Castle Fortress; Medieval Village
+房屋内部厨房图（废土版）：Surival Kitchen
+飞船或基地内部场景：Mothership Service Rooms; Sci Fi Observation Station Kit
+赛博朋克城市内部场景：CYBERPUNK STREET ; Cyberpunk Environment Kitbash Set；Hong Kong Alley； Forgotten Alley; 
+地下地铁内部图：Urban Underground; Subway
 户外高原场景：Brushify
-海底（带飞机残骸）场景
+海底（带飞机残骸）场景：Ocean Floor Environment
+下水道场景图：Sewerage
+户外额外场景图：European Forest
+酒馆内部图：Apothecary and Alchemy
+宗教祭祀场景图： Shinto Shrine
+巍峨的城门口及塔楼图：Sharur's Lost Monastery Ruins
+山体内部通道图（含大量钟乳石）：Luo's Modular Rocks_Caves
+英国街道图（含英国国旗）：Victorian Street
